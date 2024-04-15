@@ -106,8 +106,3 @@ struct HomePage: View {
     }
 }
 
-
-
-//#Preview {
-//    HomePage()
-//}
